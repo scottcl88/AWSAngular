@@ -1,6 +1,7 @@
 # AmplifyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+https://docs.amplify.aws/start/getting-started/data-model/q/integration/angular
 
 ## Development server
 
